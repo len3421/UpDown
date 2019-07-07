@@ -1,0 +1,138 @@
+Field=LibRef~String~LibRef~69|Field=Description~String~Description~44|Field=Designator~String~Designator~520|Field=Value~String~Value~66|Field=Dielectric~String~Dielectric~77|Field=DocumentNumber~String~DocumentNumber~80|Field=Model~String~Model~102|Field=Pitch~String~Pitch~20|Field=Quantity~Integer~Quantity~20|Field=Voltage~String~Voltage~20|Field=Working voltage~String~Working voltage~28|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~up_down_converter.PrjPcb|ReportField=ProjectFullPath~C:\ownclowd\MySkyShared\Hardware_design\RF_front_end\up_down_converter.PrjPcb|ReportField=Title~BOM_PartType For Project [up_down_converter.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~802|ReportField=ReportTime~8:18:53 AM|ReportField=ReportDate~27/11/2018|ReportField=ReportDateTime~27/11/2018 8:18:53 AM|ReportField=OutputName~BOM_PartType|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~19|ReportField=Time~|ReportField=Title~TOP|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~up_down_converter.PrjPcb|ReportField=DataSourceFullPath~C:\ownclowd\MySkyShared\Hardware_design\RF_front_end\up_down_converter.PrjPcb
+minicircuits_CBP-1820F+|Mini-Circuits band pass filter 1680-1960 MHz|BPF1, BPF5|||3, 18|||2||
+minicircuits_BPF-A410+|Mini-Circuits band pass filter 365-465 MHz|BPF2, BPF6|||3, 18|||2||
+minicircuits_CBP-2250A+|Mini-Circuits band pass filter 2000-2500 MHz|BPF3, BPF7|||3, 17|||2||
+minicircuits_CBP-F1950+|Mini-Circuits band pass filter 1450-2450MHz|BPF4|||3|||1||
+minicircuits_BPF-F1950+|Mini-Circuits band pass filter 1450-2450MHz|BPF8|||17|||1||
+Capacitor|Capacitor|C10, C161|18pF||4, 17|||2||
+Capacitor|Capacitor|C11, C162|5.6pF||4, 17|||2||
+Capacitor|Capacitor|C12, C16, C17, C72, C73, C116, C117, C123, C147, C148, C156, C169, C172, C175, C185, C189, C191|4.7uF|X5R|4, 4, 4, 5, 5, 3, 3, 3, 18, 18, 18, 17, 17, 17, 16, 16, 16|||17||
+Capacitor|Capacitor|C13, C165|100nF||4, 17|||2||
+Capacitor|Capacitor|C14, C166|1nF||4, 17|||2||
+Capacitor|Capacitor|C15, C21, C36, C76, C124, C129, C152, C155, C160, C163, C168, C174, C186, C195, C206|10uF|X5R|4, 4, 4, 5, 3, 3, 18, 18, 18, 17, 17, 17, 16, 16, 16|||15||
+Capacitor|Capacitor|C18, C74, C118, C149, C176, C192|10nF|X5R|4, 5, 3, 18, 17, 16|||6||
+Capacitor|Capacitor|C19, C20, C30, C35, C67, C70, C71, C88, C89, C119, C120, C126, C127, C150, C151, C157, C158, C167, C170, C171, C182, C187, C190, C202, C203|10nF|X7R|4, 4, 4, 4, 5, 5, 5, 5, 5, 3, 3, 3, 3, 18, 18, 18, 18, 17, 17, 17, 17, 16, 16, 16, 16|||25||
+Capacitor|Capacitor|C22, C77, C141, C153, C164, C196|4.7uF|X5R|4, 5, 7, 18, 17, 16|||6||
+Capacitor|Capacitor|C23, C121, C154, C205|100nF|X5R|4, 3, 18, 16|||4||
+Capacitor|Capacitor|C24, C65, C68, C75, C82, C122, C125, C131, C193, C213, C214, C?_LNA_HMC8410_1, C?_LNA_HMC8410_1, C?_LNA_HMC8410_2, C?_LNA_HMC8410_2, C?_LNA_HMC84101, C?_LNA_HMC84101, C?_LNA_HMC84102, C?_LNA_HMC84102, C?_LNA_HMC84103, C?_LNA_HMC84103|22pF|NP0|4, 5, 5, 5, 5, 3, 3, 8, 18, 18, 16, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12|GCM1555C1H220JA16||21||
+Capacitor|Capacitor|C25, C31, C78, C86, C97, C98, C101, C102, C103, C113_U_subckt_SMPS_EMI_filter1, C113_U_subckt_SMPS_EMI_filter2, C113_U_subckt_SMPS_EMI_filter3, C113_U_subckt_SMPS_EMI_filter4, C113_U_subckt_SMPS_EMI_filter5, C144_U_subckt_LDO_EMI_filter1, C144_U_subckt_LDO_EMI_filter2, C177, C199, C207|1uF|X5R|4, 4, 5, 5, 2, 2, 2, 2, 2, 10, 10, 10, 10, 10, 9, 9, 17, 16, 16|||19||
+Capacitor|Capacitor|C26, C34, C79, C178, C200, C204|1uF|X5R|4, 4, 5, 17, 16, 16|||6||
+Capacitor|Capacitor|C27, C33, C80, C87, C114_U_subckt_SMPS_EMI_filter1, C114_U_subckt_SMPS_EMI_filter2, C114_U_subckt_SMPS_EMI_filter3, C114_U_subckt_SMPS_EMI_filter4, C114_U_subckt_SMPS_EMI_filter5, C145_U_subckt_LDO_EMI_filter1, C145_U_subckt_LDO_EMI_filter2, C180, C201, C208|10nF|X5R|4, 4, 5, 5, 10, 10, 10, 10, 10, 9, 9, 17, 16, 16|||14||
+Capacitor|Capacitor|C28, C29, C32, C37, C43_U_subckt_LNA_HMC1049LP5E1, C43_U_subckt_LNA_HMC1049LP5E2, C43_U_subckt_LNA_HMC1049LP5E_1, C43_U_subckt_LNA_HMC1049LP5E_2, C44_U_subckt_LNA_HMC1049LP5E1, C44_U_subckt_LNA_HMC1049LP5E2, C44_U_subckt_LNA_HMC1049LP5E_1, C44_U_subckt_LNA_HMC1049LP5E_2, C45_U_subckt_LNA_HMC1049LP5E1, C45_U_subckt_LNA_HMC1049LP5E2, C45_U_subckt_LNA_HMC1049LP5E_1, C45_U_subckt_LNA_HMC1049LP5E_2, C48_U_subckt_LNA_HMC1049LP5E1, C48_U_subckt_LNA_HMC1049LP5E2, C48_U_subckt_LNA_HMC1049LP5E_1, C48_U_subckt_LNA_HMC1049LP5E_2, C49_U_subckt_LNA_HMC1049LP5E1, C49_U_subckt_LNA_HMC1049LP5E2, C49_U_subckt_LNA_HMC1049LP5E_1, C49_U_subckt_LNA_HMC1049LP5E_2, C53_U_subckt_RF1_filter_bank1, C53_U_subckt_RF1_filter_bank2, C54_U_subckt_RF1_filter_bank1, C54_U_subckt_RF1_filter_bank2, C55_U_subckt_RF1_filter_bank1, C55_U_subckt_RF1_filter_bank2, C56_U_subckt_RF1_filter_bank1, C56_U_subckt_RF1_filter_bank2, C57_U_subckt_RF1_filter_bank1, C57_U_subckt_RF1_filter_bank2, C58_U_subckt_RF1_filter_bank1, C58_U_subckt_RF1_filter_bank2, C59_U_subckt_RF1_filter_bank1, C59_U_subckt_RF1_filter_bank2, C60_U_subckt_RF1_filter_bank1, C60_U_subckt_RF1_filter_bank2, C61, C62, C63, C64, C81, C83, C85, C90, C179, C181, C188, C194, C197, C198, C209, C210, C211, C212|100pF||4, 4, 4, 4, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 5, 5, 5, 5, 17, 17, 16, 16, 16, 16, 16, 16, 19, 19|||58||
+Capacitor|Capacitor|C41_U_subckt_LNA_HMC1049LP5E1, C41_U_subckt_LNA_HMC1049LP5E2, C41_U_subckt_LNA_HMC1049LP5E_1, C41_U_subckt_LNA_HMC1049LP5E_2, C46_U_subckt_LNA_HMC1049LP5E1, C46_U_subckt_LNA_HMC1049LP5E2, C46_U_subckt_LNA_HMC1049LP5E_1, C46_U_subckt_LNA_HMC1049LP5E_2|4.7uF||13|||8||
+Capacitor|Capacitor|C42_U_subckt_LNA_HMC1049LP5E1, C42_U_subckt_LNA_HMC1049LP5E2, C42_U_subckt_LNA_HMC1049LP5E_1, C42_U_subckt_LNA_HMC1049LP5E_2, C47_U_subckt_LNA_HMC1049LP5E1, C47_U_subckt_LNA_HMC1049LP5E2, C47_U_subckt_LNA_HMC1049LP5E_1, C47_U_subckt_LNA_HMC1049LP5E_2, C96|10nF||13, 13, 13, 13, 13, 13, 13, 13, 2|||9||
+Capacitor|Capacitor|C50_U_subckt_LNA_HMC1049LP5E1, C50_U_subckt_LNA_HMC1049LP5E2, C50_U_subckt_LNA_HMC1049LP5E_1, C50_U_subckt_LNA_HMC1049LP5E_2, C52_U_subckt_LNA_HMC1049LP5E1, C52_U_subckt_LNA_HMC1049LP5E2, C52_U_subckt_LNA_HMC1049LP5E_1, C52_U_subckt_LNA_HMC1049LP5E_2, C?_LNA_HMC8410_1, C?_LNA_HMC8410_1, C?_LNA_HMC8410_1, C?_LNA_HMC8410_2, C?_LNA_HMC8410_2, C?_LNA_HMC8410_2, C?_LNA_HMC84101, C?_LNA_HMC84101, C?_LNA_HMC84101, C?_LNA_HMC84102, C?_LNA_HMC84102, C?_LNA_HMC84102, C?_LNA_HMC84103, C?_LNA_HMC84103, C?_LNA_HMC84103|100nF|X7R|13, 13, 13, 13, 13, 13, 13, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12|||23||
+Capacitor|Capacitor|C51_U_subckt_LNA_HMC1049LP5E1, C51_U_subckt_LNA_HMC1049LP5E2, C51_U_subckt_LNA_HMC1049LP5E_1, C51_U_subckt_LNA_HMC1049LP5E_2, C?_LNA_HMC8410_1, C?_LNA_HMC8410_1, C?_LNA_HMC8410_2, C?_LNA_HMC8410_2, C?_LNA_HMC84101, C?_LNA_HMC84101, C?_LNA_HMC84102, C?_LNA_HMC84102, C?_LNA_HMC84103, C?_LNA_HMC84103|10nF|X7R|13, 13, 13, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12|||14||
+Capacitor|Capacitor|C66, C69, C84|10nF|Y5V|5|||3||
+Capacitor|Capacitor|C91|10nF|X5R|2|||1||
+Capacitor|Capacitor|C92|10uF||2|||1||
+Capacitor|Capacitor|C93|1nF||2|||1||
+Capacitor|Capacitor|C94|100nF||2|||1||
+Capacitor|Capacitor|C95|47uF|Y5V|2|||1||
+Capacitor|Capacitor|C99, C110_U_subckt_3V3_SMPS1, C110_U_subckt_3V3_SMPS2, C110_U_subckt_3V3_SMPS3, C110_U_subckt_3V3_SMPS4, C135, C138, C139|10uF|X5R|2, 6, 6, 6, 6, 8, 7, 7|||8||
+Capacitor|Capacitor|C100|1nF|X5R|2|||1||
+Capacitor|Capacitor|C104_U_subckt_3V3_SMPS1, C104_U_subckt_3V3_SMPS2, C104_U_subckt_3V3_SMPS3, C104_U_subckt_3V3_SMPS4, C130|0.68uF|X5R|6, 6, 6, 6, 8|||5||
+Capacitor|Capacitor|C105_U_subckt_3V3_SMPS1, C105_U_subckt_3V3_SMPS2, C105_U_subckt_3V3_SMPS3, C105_U_subckt_3V3_SMPS4|100pF|NP0|6|||4||
+Capacitor|Capacitor|C106_U_subckt_3V3_SMPS1, C106_U_subckt_3V3_SMPS2, C106_U_subckt_3V3_SMPS3, C106_U_subckt_3V3_SMPS4, C107_U_subckt_3V3_SMPS1, C107_U_subckt_3V3_SMPS2, C107_U_subckt_3V3_SMPS3, C107_U_subckt_3V3_SMPS4, C108_U_subckt_3V3_SMPS1, C108_U_subckt_3V3_SMPS2, C108_U_subckt_3V3_SMPS3, C108_U_subckt_3V3_SMPS4, C132, C133|33uF|X5R|6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 8, 8|||14||
+Capacitor|Capacitor|C109_U_subckt_3V3_SMPS1, C109_U_subckt_3V3_SMPS2, C109_U_subckt_3V3_SMPS3, C109_U_subckt_3V3_SMPS4, C134|2.2uF|X5R|6, 6, 6, 6, 8|||5||
+Capacitor|Capacitor|C111_U_subckt_3V3_SMPS1, C111_U_subckt_3V3_SMPS2, C111_U_subckt_3V3_SMPS3, C111_U_subckt_3V3_SMPS4, C112_U_subckt_SMPS_EMI_filter1, C112_U_subckt_SMPS_EMI_filter2, C112_U_subckt_SMPS_EMI_filter3, C112_U_subckt_SMPS_EMI_filter4, C112_U_subckt_SMPS_EMI_filter5, C115_U_subckt_SMPS_EMI_filter1, C115_U_subckt_SMPS_EMI_filter2, C115_U_subckt_SMPS_EMI_filter3, C115_U_subckt_SMPS_EMI_filter4, C115_U_subckt_SMPS_EMI_filter5, C136, C143_U_subckt_LDO_EMI_filter1, C143_U_subckt_LDO_EMI_filter2, C146_U_subckt_LDO_EMI_filter1, C146_U_subckt_LDO_EMI_filter2|100nF|X5R|6, 6, 6, 6, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 8, 9, 9, 9, 9|||19||
+Capacitor|Capacitor|C128, C159, C173|1uF|Y5V|3, 18, 17|||3||
+Capacitor|Capacitor|C137|1uF|X5R|7|||1||
+Capacitor|Capacitor|C140|10nF|NP0|7|||1||
+Capacitor|Capacitor|C142|2.2uF|X5R|7|||1||
+Capacitor|Capacitor|C183|22pF|NP0|16|GCM1555C1H220JA16||1||
+Capacitor|Capacitor|C184|10nF|X7R|16|||1||
+Capacitor|Capacitor|C?_Attenuator_HMC539ALP3_1, C?_Attenuator_HMC539ALP3_2, C?_Attenuator_HMC539ALP31, C?_Attenuator_HMC539ALP32|10pF|C0G|11|||4||
+Capacitor|Capacitor|C?_Attenuator_HMC539ALP3_1, C?_Attenuator_HMC539ALP3_2, C?_Attenuator_HMC539ALP31, C?_Attenuator_HMC539ALP32|1nF|Y5V|11|||4||
+Capacitor|Capacitor|C?_Attenuator_HMC539ALP3_1, C?_Attenuator_HMC539ALP3_2, C?_Attenuator_HMC539ALP31, C?_Attenuator_HMC539ALP32|33pF|C0G|11|||4||
+Capacitor|Capacitor|C?_LNA_HMC8410_1, C?_LNA_HMC8410_2, C?_LNA_HMC84101, C?_LNA_HMC84102, C?_LNA_HMC84103|2.2uF|X7R|12|||5||
+Capacitor|Capacitor|C?_LNA_HMC8410_1, C?_LNA_HMC8410_2, C?_LNA_HMC84101, C?_LNA_HMC84102, C?_LNA_HMC84103|4.7uF|X7R|12|||5||
+D dual series diode|Dual series diode|D1, D15, D16, D17, D18|||4, 3, 18, 17, 16|BAT54SLT1||5||
+D Zener|Zener Diode|D2|||2|MMBZ5245BLT1G||1||
+D Zener|Zener Diode|D3|||2|SMF17ABR||1||
+LED|LED|D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14|||2|WE 150060VS75000, WE 150060YS75000, WE 150060VS75000, WE 150060RS75000, WE 150060VS75000, WE 150060VS75000, WE 150060VS75000, WE 150060VS75000, WE 150060VS75000, WE 150060VS75000, WE 150060VS75000||11||
+ON_ESD8116|On Semi 6ch 3.3V ESD diodes|ESD1, ESD5, ESD6, ESD7, ESD8|||4, 3, 3, 18, 18|||5||
+DiodesInc_DT1240A-08LP3810|Diodes Incorporated 8ch 3.3V ESD diodes|ESD2, ESD4, ESD9, ESD10, ESD11|||4, 5, 17, 16, 16|||5||
+ON_uESD3.3DT5G|On Semi ESD 2ch Zener series|ESD3|||5|UESD3.3DT5G||1||3V3
+Header2|Header 2 pins|HDR1, HDR3, HDR4, HDR5, HDR6, HDR9, HDR10, HDR11, HDR12, HDR42, HDR43, HDR44, HDR46, HDR48, HDR49, HDR51, HDR52, HDR54, HDR56, HDR57, HDR58, HDR59, HDR61, HDR62, HDR63|||4, 4, 4, 4, 4, 5, 5, 5, 5, 3, 3, 3, 3, 18, 18, 17, 17, 17, 16, 16, 16, 16, 16, 18, 18||[NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], 100mil, 100mil|25||
+Header5|Header 5 pins|HDR2|||4|||1||
+Header8|Header 8 pins|HDR7, HDR13, HDR53, HDR55, HDR60|||4, 5, 17, 16, 16|||5||
+Header3|Header 3 pins|HDR8|||5|||1||
+Header3|Header 3 pins|HDR14|||2|||1||
+Header2|Header 2 pins|HDR15, HDR16, HDR17, HDR18, HDR19, HDR20, HDR21, HDR22, HDR23, HDR24, HDR25, HDR26, HDR27, HDR28, HDR29, HDR30, HDR31, HDR32, HDR33, HDR34, HDR35, HDR36, HDR37, HDR38, HDR39, HDR40|||2|||26||
+Header6|Header 6 pins|HDR41, HDR45, HDR47, HDR50|||3, 3, 18, 18|||4||
+minicircuits_HFCN-8400+||HPF1_U_subckt_RF1_filter_bank1, HPF1_U_subckt_RF1_filter_bank2|||14|||2||
+minicircuits_XHF2-1162+|HPF 11.6GHz-30GHz|HPF2_U_subckt_RF1_filter_bank1, HPF2_U_subckt_RF1_filter_bank2, HPF3_U_subckt_RF1_filter_bank1, HPF3_U_subckt_RF1_filter_bank2|||14|||4||
+minicircuits_HFCN-1322+|HPF 14.3GHZ-18.5GHZ|HPF4_U_subckt_RF1_filter_bank1, HPF4_U_subckt_RF1_filter_bank2|||14|||2||
+knowles_H160XHXS|HPF 16GHz|HPF5_U_subckt_RF1_filter_bank1, HPF5_U_subckt_RF1_filter_bank2|||14|||2||
+minicircuits_HFCN-6010+|HPF 6.3GHz-15GHz|HPF6, HPF7|||15, 19|||2||
+Inductor|Inductor|L3, L17|3.3nH||4, 17|||2||
+Inductor|Inductor|L4, L20, L21|1.3uH||4, 18, 18|4310LC-132KEB, Coilcraft 4310LC-132KEB, Coilcraft 4310LC-132KEB||3||
+Inductor|Inductor|L5, L6, L7, L8, L18, L19|220nH||5, 5, 5, 5, 16, 16|BCR-221JLB||6||
+Inductor|Inductor|L9_U_subckt_3V3_SMPS1, L9_U_subckt_3V3_SMPS2, L9_U_subckt_3V3_SMPS3, L9_U_subckt_3V3_SMPS4|6.8uH||6|XAL5050-682MEB||4||
+Inductor|Inductor|L10_U_subckt_SMPS_EMI_filter1, L10_U_subckt_SMPS_EMI_filter2, L10_U_subckt_SMPS_EMI_filter3, L10_U_subckt_SMPS_EMI_filter4, L10_U_subckt_SMPS_EMI_filter5, L11_U_subckt_SMPS_EMI_filter1, L11_U_subckt_SMPS_EMI_filter2, L11_U_subckt_SMPS_EMI_filter3, L11_U_subckt_SMPS_EMI_filter4, L11_U_subckt_SMPS_EMI_filter5, L15_U_subckt_LDO_EMI_filter1, L15_U_subckt_LDO_EMI_filter2, L16_U_subckt_LDO_EMI_filter1, L16_U_subckt_LDO_EMI_filter2|1.5uH||10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 9, 9, 9, 9|SRN5040TA-1R5M, SRN5040TA-1R5M, SRN5040TA-1R5M, SRN5040TA-1R5M, SRN5040TA-1R5M, SRN5040TA-1R5M, SRN5040TA-1R5M, SRN5040TA-1R5M, SRN5040TA-1R5M, SRN5040TA-1R5M, LBC3225T1R5MR, LBC3225T1R5MR, LBC3225T1R5MR, LBC3225T1R5MR||14||
+Inductor|Inductor|L12, L13, L?_LNA_HMC8410_1, L?_LNA_HMC8410_1, L?_LNA_HMC8410_2, L?_LNA_HMC8410_2, L?_LNA_HMC84101, L?_LNA_HMC84101, L?_LNA_HMC84102, L?_LNA_HMC84102, L?_LNA_HMC84103, L?_LNA_HMC84103|1.2uH||3, 3, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12|BCL-122JL||12||
+Inductor|Inductor|L14|2.2uH||8|XAL5030-222MEB||1||
+LP3985|LDO 150mA|LDO1, LDO2, LDO3, LDO5, LDO6, LDO7|||4, 5, 3, 18, 17, 16|LP3985IM5-3.3/NOPB||6|3V3|
+LP2992|LDO 5V 250mA|LDO4|||7|||1||
+minicircuits_LFCN-8440+|LPF 8440MHz|LPF1_U_subckt_RF1_filter_bank1, LPF1_U_subckt_RF1_filter_bank2|||14|||2||
+minicircuits_LFCW-1062+|LPF 10.6GHz|LPF2_U_subckt_RF1_filter_bank1, LPF2_U_subckt_RF1_filter_bank2|||14|||2||
+minicircuits_LFCW-133+|LPF 13.25GHz|LPF3_U_subckt_RF1_filter_bank1, LPF3_U_subckt_RF1_filter_bank2|||14|||2||
+minicircuits_XLF-133+|LPF 13.1GHz|LPF4_U_subckt_RF1_filter_bank1, LPF4_U_subckt_RF1_filter_bank2|||14|||2||
+minicircuits_XLF-173+|LPF 17.0GHz|LPF5_U_subckt_RF1_filter_bank1, LPF5_U_subckt_RF1_filter_bank2|||14|||2||
+minicircuits_LFCN-8400+|LPF 8400MHz|LPF6, LPF8|||15, 19|||2||
+minicircuits_LFCN-6000+|LPF 6000MHz|LPF7, LPF9|||15, 19|||2||
+Power PMOS|P-Channel Power MOSFET|Q1|||2|DMP6023LE||1||
+Power NMOS|N-Channel Power MOSFET|Q2|||2|BUK7M67-60E||1||
+Resistor|Resistor|R4, R98|62k||4, 16|||2||
+Resistor|Resistor|R5, R99|12k||4, 16|||2||
+Resistor|Resistor|R6, R37, R88, R110|68k||4, 5, 17, 16|||4||
+Resistor|Resistor|R7, R38, R72, R82, R86, R95, R111|39k||4, 5, 3, 18, 17, 17, 16|||7||
+Resistor|Resistor|R8, R9, R10, R11, R12, R13, R14, R15, R16, R25_U_subckt_RF1_filter_bank1, R25_U_subckt_RF1_filter_bank2, R26_U_subckt_RF1_filter_bank1, R26_U_subckt_RF1_filter_bank2, R33, R34, R35, R36, R39, R40, R41, R42, R43, R44, R45, R46, R47, R48, R65, R69_U_subckt_3V3_SMPS1, R69_U_subckt_3V3_SMPS2, R69_U_subckt_3V3_SMPS3, R69_U_subckt_3V3_SMPS4, R76, R79, R89, R90, R91, R92, R93, R94, R96, R97, R103, R104, R105, R106, R107, R108, R109, R112, R113, R115, R?_LNA_HMC8410_1, R?_LNA_HMC8410_2, R?_LNA_HMC84101, R?_LNA_HMC84102, R?_LNA_HMC84103|0R||4, 4, 4, 4, 4, 4, 4, 4, 4, 14, 14, 14, 14, 15, 15, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 6, 6, 6, 6, 8, 7, 17, 17, 17, 17, 17, 17, 17, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 19, 12, 12, 12, 12, 12|||57||
+Resistor|Resistor|R22_U_subckt_LNA_HMC1049LP5E1, R22_U_subckt_LNA_HMC1049LP5E2, R22_U_subckt_LNA_HMC1049LP5E_1, R22_U_subckt_LNA_HMC1049LP5E_2|430k||13|||4||
+Resistor|Resistor|R23_U_subckt_RF1_filter_bank1, R23_U_subckt_RF1_filter_bank2, R24_U_subckt_RF1_filter_bank1, R24_U_subckt_RF1_filter_bank2, R27_U_subckt_RF1_filter_bank1, R27_U_subckt_RF1_filter_bank2, R28_U_subckt_RF1_filter_bank1, R28_U_subckt_RF1_filter_bank2, R29_U_subckt_RF1_filter_bank1, R29_U_subckt_RF1_filter_bank2, R30_U_subckt_RF1_filter_bank1, R30_U_subckt_RF1_filter_bank2, R31, R32, R101, R102, R114, R?_Attenuator_HMC539ALP3_1, R?_Attenuator_HMC539ALP3_1, R?_Attenuator_HMC539ALP3_1, R?_Attenuator_HMC539ALP3_1, R?_Attenuator_HMC539ALP3_1, R?_Attenuator_HMC539ALP3_2, R?_Attenuator_HMC539ALP3_2, R?_Attenuator_HMC539ALP3_2, R?_Attenuator_HMC539ALP3_2, R?_Attenuator_HMC539ALP3_2, R?_Attenuator_HMC539ALP31, R?_Attenuator_HMC539ALP31, R?_Attenuator_HMC539ALP31, R?_Attenuator_HMC539ALP31, R?_Attenuator_HMC539ALP31, R?_Attenuator_HMC539ALP32, R?_Attenuator_HMC539ALP32, R?_Attenuator_HMC539ALP32, R?_Attenuator_HMC539ALP32, R?_Attenuator_HMC539ALP32|100R||14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 16, 16, 19, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11|||37||
+Resistor|Resistor|R49|R012||2|||1||
+Resistor|Resistor|R50, R60, R62, R67|1k0||2|||4||
+Resistor|Resistor|R51|68k||2|||1||
+Resistor|Resistor|R52|10k||2|||1||
+Resistor|Resistor|R53|10R||2|||1||
+Resistor|Resistor|R54|10k||2|||1||
+Resistor|Resistor|R55|4k7||2|||1||
+Resistor|Resistor|R56, R57|10k||2|||2||
+Resistor|Resistor|R58|12k||2|||1||
+Resistor|Resistor|R59|1k8||2|||1||
+Resistor|Resistor|R61|3k3||2|||1||
+Resistor|Resistor|R63, R70_U_subckt_3V3_SMPS1, R70_U_subckt_3V3_SMPS2, R70_U_subckt_3V3_SMPS3, R70_U_subckt_3V3_SMPS4|27k||2, 6, 6, 6, 6|||5||
+Resistor|Resistor|R64|5k6||2|||1||
+Resistor|Resistor|R66|4k7||2|||1||
+Resistor|Resistor|R68|4k7||2|||1||
+Resistor|Resistor|R71_U_subckt_3V3_SMPS1, R71_U_subckt_3V3_SMPS2, R71_U_subckt_3V3_SMPS3, R71_U_subckt_3V3_SMPS4, R73, R78, R83, R87|11k||6, 6, 6, 6, 3, 8, 18, 17|||8||
+Resistor|Resistor|R74, R75, R84, R85, R100|50R||3, 3, 18, 18, 16|||5||
+Resistor|Resistor|R77, R81|56k||8, 7|||2||
+Resistor|Resistor|R80|110k||7|||1||
+Resistor|Resistor|R?_LNA_HMC8410_1, R?_LNA_HMC8410_2, R?_LNA_HMC84101, R?_LNA_HMC84102, R?_LNA_HMC84103|15R||12|||5||
+Resistor|Resistor|R?_LNA_HMC8410_1, R?_LNA_HMC8410_2, R?_LNA_HMC84101, R?_LNA_HMC84102, R?_LNA_HMC84103|470R||12|||5||
+RF_connector|RF connector w/  pin and barrel|RF1, RF2, RF3, RF4, RF5, RF6, RF7, RF8, RF9, RF10, RF11, RF12, RF13, RF14, RF15, RF16, RF17, RF18, RF19, RF20|||4, 4, 4, 4, 5, 5, 5, 5, 3, 3, 3, 18, 18, 18, 17, 17, 17, 16, 16, 16|Cinch 142-0761-801||20||
+LDO_Adj|Adjustable LDO|U3, U31, U35, U46, U54, U58|||4, 2, 3, 18, 17, 16|LP38693MP-ADJ, TL1963A, LP38693MP-ADJ, LP38693MP-ADJ, LP38693MP-ADJ, LP38693MP-ADJ||6|7V7, 8V0, 5V6, 5V6, 5V6, 7V7|
+Minicircuits_AVA-24A+|Minicircuits amplifier AVA-24A+ 5GHz-20GHz|U4, U53|||4, 17|||2||
+AD_HMC773ALC3B|AD mixer HMC773ALC3B, 6GHz - 26GHz|U5, U21, U55, U61|||4, 5, 17, 16|||4||
+LP38692|LDO LP38692|U6, U23, U45, U52, U62|||4, 5, 18, 17, 16|LP38692MPX-5.0||5|5V0|
+TPS723xx|Adjustable negative voltage LDO|U7, U9, U24, U25, U56, U63, U65|||4, 4, 5, 5, 17, 16, 16|TPS72301DBV, TPS72325DBV, TPS72301DBV, TPS72325DBV, TPS72301DBV, TPS72301DBV, TPS72325DBV||7|-3V3, -2V5, -3V3, -2V5, -3V3, -3V3, -2V5|
+AD_ADRF5020|AD SPDT Switch, 100MHz-30GHz|U8, U14_U_subckt_RF1_filter_bank1, U14_U_subckt_RF1_filter_bank2, U15_U_subckt_RF1_filter_bank1, U15_U_subckt_RF1_filter_bank2, U18, U19, U26, U66, U67|||4, 14, 14, 14, 14, 15, 15, 5, 16, 19|||10||
+AD_ADRF5730|AD Attenuator, 0.5dB LSB, ADRF5730|U10, U28, U57, U64|||4, 5, 17, 16|||4||
+AD_HMC1049LP5E|AD 0.3GHz-20GHz LNA|U12_U_subckt_LNA_HMC1049LP5E1, U12_U_subckt_LNA_HMC1049LP5E2, U12_U_subckt_LNA_HMC1049LP5E_1, U12_U_subckt_LNA_HMC1049LP5E_2|||13|||4||
+AD_HMC981LP3E|HMC981LP3E active bias controller for LNA's w/ external Vgg control|U13_U_subckt_LNA_HMC1049LP5E1, U13_U_subckt_LNA_HMC1049LP5E2, U13_U_subckt_LNA_HMC1049LP5E_1, U13_U_subckt_LNA_HMC1049LP5E_2, U?_LNA_HMC8410_1, U?_LNA_HMC8410_2, U?_LNA_HMC84101, U?_LNA_HMC84102, U?_LNA_HMC84103|||13, 13, 13, 13, 12, 12, 12, 12, 12|||9||
+AD_ADRF5044|AD SP4T Switch, 100MHz-30GHz|U16_U_subckt_RF1_filter_bank1, U16_U_subckt_RF1_filter_bank2, U17_U_subckt_RF1_filter_bank1, U17_U_subckt_RF1_filter_bank2, U60|||14, 14, 14, 14, 16|||5||
+minicircuits_PMA2-153LN+|LNA 16.7dB 0.5GHz-15GHz|U20, U22, U27, U59|||5, 5, 5, 16|||4||
+TPS2490|High voltage hot swap controller|U29|||2|||1||
+LDO_no_EN|LDO w/o EN|U30, U32|||2|TLV1117LV18||2|1V8|
+LMR23630|3A Simple Switcher sync buck|U33_U_subckt_3V3_SMPS1, U33_U_subckt_3V3_SMPS2, U33_U_subckt_3V3_SMPS3, U33_U_subckt_3V3_SMPS4|||6|||4||
+Common_choke|Common mode choke|U34_U_subckt_SMPS_EMI_filter1, U34_U_subckt_SMPS_EMI_filter2, U34_U_subckt_SMPS_EMI_filter3, U34_U_subckt_SMPS_EMI_filter4, U34_U_subckt_SMPS_EMI_filter5, U44_U_subckt_LDO_EMI_filter1, U44_U_subckt_LDO_EMI_filter2|||10, 10, 10, 10, 10, 9, 9|DLW5BTM501SQ2, DLW5BTM501SQ2, DLW5BTM501SQ2, DLW5BTM501SQ2, DLW5BTM501SQ2, DLW5ATN501SQ2, DLW5ATN501SQ2||7||
+minicircuits_RLM-33H+|Limiter, 30-3000 MHz, 17dBm|U36|||3|||1||
+minicircuits_ADP-2-1W+|Minicircuits power splitter ADP-2-1W+|U37, U48|||3, 18|||2||
+minicircuits_ADE-30+|Minicircuits mixer ADE-30+, 200MHz-3000MHz|U38, U41, U47, U51|||3, 3, 18, 18|||4||
+minicircuits_QCC-22+|Minicircuits_ power splitter/combiner QCC-22+, 1.5-2.5GHz|U39, U40, U49, U50|||3, 3, 18, 18|||4||
+LMR23625|2.5A Simple Switcher sync buck|U42|||8|||1||
+LM27761|Inverting charge pump w/ LDO, -1.5V to -5V|U43|||7|||1||
+AD_HMC539ALP3|Attenuator 7.75dB, DC-4GHz, 0.25dB LSB|U?_Attenuator_HMC539ALP3_1, U?_Attenuator_HMC539ALP3_2, U?_Attenuator_HMC539ALP31, U?_Attenuator_HMC539ALP32|||11|||4||
+AD_HMC8410|0.01GHz-10GHz LNA|U?_LNA_HMC8410_1, U?_LNA_HMC8410_2, U?_LNA_HMC84101, U?_LNA_HMC84102, U?_LNA_HMC84103|||12|||5||
